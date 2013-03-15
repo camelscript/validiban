@@ -1,4 +1,4 @@
-validiban
+Javascript IBAN validation
 =========
 
 JavaScript IBAN account number validator.
